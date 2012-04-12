@@ -1,0 +1,7 @@
+name = "Commerce Add To Cart Filter"
+description = "Provide custom filter to replace [product-button:PRODUCTID title=BUTTONTEXT] with Drupal Commerce Add to cart button"
+core = "7.x"
+package = "Commerce"
+php = "5.2.4"
+dependencies[] = "commerce"
+dependencies[] = "commerce_cart"
